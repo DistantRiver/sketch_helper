@@ -1,345 +1,345 @@
-../binary/aircraft carrier.bin
-../binary/airplane.bin
-../binary/alarm clock.bin
-../binary/ambulance.bin
-../binary/angel.bin
-../binary/animal migration.bin
-../binary/ant.bin
-../binary/anvil.bin
-../binary/apple.bin
-../binary/arm.bin
-../binary/asparagus.bin
-../binary/axe.bin
-../binary/backpack.bin
-../binary/banana.bin
-../binary/bandage.bin
-../binary/barn.bin
-../binary/baseball bat.bin
-../binary/baseball.bin
-../binary/basketball.bin
-../binary/bat.bin
-../binary/bathtub.bin
-../binary/beach.bin
-../binary/bear.bin
-../binary/beard.bin
-../binary/bed.bin
-../binary/bee.bin
-../binary/belt.bin
-../binary/bench.bin
-../binary/bicycle.bin
-../binary/binoculars.bin
-../binary/bird.bin
-../binary/birthday cake.bin
-../binary/blackberry.bin
-../binary/blueberry.bin
-../binary/book.bin
-../binary/boomerang.bin
-../binary/bowtie.bin
-../binary/bracelet.bin
-../binary/brain.bin
-../binary/bread.bin
-../binary/bridge.bin
-../binary/broccoli.bin
-../binary/broom.bin
-../binary/bucket.bin
-../binary/bulldozer.bin
-../binary/bus.bin
-../binary/bush.bin
-../binary/butterfly.bin
-../binary/cactus.bin
-../binary/cake.bin
-../binary/calculator.bin
-../binary/calendar.bin
-../binary/camel.bin
-../binary/camera.bin
-../binary/campfire.bin
-../binary/candle.bin
-../binary/cannon.bin
-../binary/canoe.bin
-../binary/car.bin
-../binary/carrot.bin
-../binary/castle.bin
-../binary/cat.bin
-../binary/ceiling fan.bin
-../binary/cell phone.bin
-../binary/cello.bin
-../binary/chair.bin
-../binary/chandelier.bin
-../binary/church.bin
-../binary/circle.bin
-../binary/clarinet.bin
-../binary/clock.bin
-../binary/cloud.bin
-../binary/compass.bin
-../binary/computer.bin
-../binary/cookie.bin
-../binary/cooler.bin
-../binary/couch.bin
-../binary/cow.bin
-../binary/crab.bin
-../binary/crayon.bin
-../binary/crocodile.bin
-../binary/crown.bin
-../binary/cruise ship.bin
-../binary/cup.bin
-../binary/diamond.bin
-../binary/dishwasher.bin
-../binary/diving board.bin
-../binary/dog.bin
-../binary/dolphin.bin
-../binary/donut.bin
-../binary/basket.bin
-../binary/bottlecap.bin
-../binary/camouflage.bin
-../binary/coffee cup.bin
-../binary/door.bin
-../binary/fire hydrant.bin
-../binary/grapes.bin
-../binary/hot tub.bin
-../binary/lighter.bin
-../binary/motorbike.bin
-../binary/panda.bin
-../binary/police car.bin
-../binary/rollerskates.bin
-../binary/skyscraper.bin
-../binary/steak.bin
-../binary/teapot.bin
-../binary/train.bin
-../binary/dragon.bin
-../binary/dresser.bin
-../binary/drill.bin
-../binary/drums.bin
-../binary/duck.bin
-../binary/dumbbell.bin
-../binary/ear.bin
-../binary/elbow.bin
-../binary/elephant.bin
-../binary/envelope.bin
-../binary/eraser.bin
-../binary/eye.bin
-../binary/eyeglasses.bin
-../binary/face.bin
-../binary/fan.bin
-../binary/feather.bin
-../binary/fence.bin
-../binary/finger.bin
-../binary/fireplace.bin
-../binary/firetruck.bin
-../binary/fish.bin
-../binary/flamingo.bin
-../binary/flashlight.bin
-../binary/flip flops.bin
-../binary/floor lamp.bin
-../binary/flower.bin
-../binary/flying saucer.bin
-../binary/foot.bin
-../binary/fork.bin
-../binary/frog.bin
-../binary/frying pan.bin
-../binary/garden hose.bin
-../binary/garden.bin
-../binary/giraffe.bin
-../binary/goatee.bin
-../binary/golf club.bin
-../binary/grass.bin
-../binary/guitar.bin
-../binary/hamburger.bin
-../binary/hammer.bin
-../binary/hand.bin
-../binary/harp.bin
-../binary/hat.bin
-../binary/headphones.bin
-../binary/hedgehog.bin
-../binary/helicopter.bin
-../binary/helmet.bin
-../binary/hexagon.bin
-../binary/hockey puck.bin
-../binary/hockey stick.bin
-../binary/horse.bin
-../binary/hospital.bin
-../binary/hot air balloon.bin
-../binary/hot dog.bin
-../binary/hourglass.bin
-../binary/house plant.bin
-../binary/house.bin
-../binary/hurricane.bin
-../binary/ice cream.bin
-../binary/jacket.bin
-../binary/jail.bin
-../binary/kangaroo.bin
-../binary/key.bin
-../binary/keyboard.bin
-../binary/knee.bin
-../binary/knife.bin
-../binary/ladder.bin
-../binary/lantern.bin
-../binary/laptop.bin
-../binary/leaf.bin
-../binary/leg.bin
-../binary/light bulb.bin
-../binary/lighthouse.bin
-../binary/lightning.bin
-../binary/line.bin
-../binary/lion.bin
-../binary/lipstick.bin
-../binary/lobster.bin
-../binary/lollipop.bin
-../binary/mailbox.bin
-../binary/map.bin
-../binary/marker.bin
-../binary/matches.bin
-../binary/megaphone.bin
-../binary/mermaid.bin
-../binary/microphone.bin
-../binary/microwave.bin
-../binary/monkey.bin
-../binary/moon.bin
-../binary/mosquito.bin
-../binary/mountain.bin
-../binary/mouse.bin
-../binary/moustache.bin
-../binary/mouth.bin
-../binary/mug.bin
-../binary/mushroom.bin
-../binary/nail.bin
-../binary/necklace.bin
-../binary/nose.bin
-../binary/ocean.bin
-../binary/octagon.bin
-../binary/octopus.bin
-../binary/onion.bin
-../binary/oven.bin
-../binary/owl.bin
-../binary/paint can.bin
-../binary/paintbrush.bin
-../binary/palm tree.bin
-../binary/pants.bin
-../binary/paper clip.bin
-../binary/parachute.bin
-../binary/parrot.bin
-../binary/passport.bin
-../binary/peanut.bin
-../binary/pear.bin
-../binary/peas.bin
-../binary/pencil.bin
-../binary/penguin.bin
-../binary/piano.bin
-../binary/pickup truck.bin
-../binary/picture frame.bin
-../binary/pig.bin
-../binary/pillow.bin
-../binary/pineapple.bin
-../binary/pizza.bin
-../binary/pliers.bin
-../binary/pond.bin
-../binary/pool.bin
-../binary/popsicle.bin
-../binary/postcard.bin
-../binary/potato.bin
-../binary/power outlet.bin
-../binary/purse.bin
-../binary/rabbit.bin
-../binary/raccoon.bin
-../binary/radio.bin
-../binary/rain.bin
-../binary/rainbow.bin
-../binary/rake.bin
-../binary/remote control.bin
-../binary/rhinoceros.bin
-../binary/rifle.bin
-../binary/river.bin
-../binary/roller coaster.bin
-../binary/sailboat.bin
-../binary/sandwich.bin
-../binary/saw.bin
-../binary/saxophone.bin
-../binary/school bus.bin
-../binary/scissors.bin
-../binary/scorpion.bin
-../binary/screwdriver.bin
-../binary/sea turtle.bin
-../binary/see saw.bin
-../binary/shark.bin
-../binary/sheep.bin
-../binary/shoe.bin
-../binary/shorts.bin
-../binary/shovel.bin
-../binary/sink.bin
-../binary/skateboard.bin
-../binary/skull.bin
-../binary/sleeping bag.bin
-../binary/smiley face.bin
-../binary/snail.bin
-../binary/snake.bin
-../binary/snorkel.bin
-../binary/snowflake.bin
-../binary/snowman.bin
-../binary/soccer ball.bin
-../binary/sock.bin
-../binary/speedboat.bin
-../binary/spider.bin
-../binary/spoon.bin
-../binary/spreadsheet.bin
-../binary/square.bin
-../binary/squiggle.bin
-../binary/squirrel.bin
-../binary/stairs.bin
-../binary/star.bin
-../binary/stereo.bin
-../binary/stethoscope.bin
-../binary/stitches.bin
-../binary/stop sign.bin
-../binary/stove.bin
-../binary/strawberry.bin
-../binary/streetlight.bin
-../binary/string bean.bin
-../binary/submarine.bin
-../binary/suitcase.bin
-../binary/sun.bin
-../binary/swan.bin
-../binary/sweater.bin
-../binary/swing set.bin
-../binary/sword.bin
-../binary/syringe.bin
-../binary/t-shirt.bin
-../binary/table.bin
-../binary/teddy-bear.bin
-../binary/telephone.bin
-../binary/television.bin
-../binary/tennis racquet.bin
-../binary/tent.bin
-../binary/The Eiffel Tower.bin
-../binary/The Great Wall of China.bin
-../binary/The Mona Lisa.bin
-../binary/tiger.bin
-../binary/toaster.bin
-../binary/toe.bin
-../binary/toilet.bin
-../binary/tooth.bin
-../binary/toothbrush.bin
-../binary/toothpaste.bin
-../binary/tornado.bin
-../binary/tractor.bin
-../binary/traffic light.bin
-../binary/tree.bin
-../binary/triangle.bin
-../binary/trombone.bin
-../binary/truck.bin
-../binary/trumpet.bin
-../binary/umbrella.bin
-../binary/underwear.bin
-../binary/van.bin
-../binary/vase.bin
-../binary/violin.bin
-../binary/washing machine.bin
-../binary/watermelon.bin
-../binary/waterslide.bin
-../binary/whale.bin
-../binary/wheel.bin
-../binary/windmill.bin
-../binary/wine bottle.bin
-../binary/wine glass.bin
-../binary/wristwatch.bin
-../binary/yoga.bin
-../binary/zebra.bin
-../binary/zigzag.bin
+/home/ubuntu/datasets/quickdraw_binary/eyeglasses.bin
+/home/ubuntu/datasets/quickdraw_binary/ladder.bin
+/home/ubuntu/datasets/quickdraw_binary/picture frame.bin
+/home/ubuntu/datasets/quickdraw_binary/baseball bat.bin
+/home/ubuntu/datasets/quickdraw_binary/fish.bin
+/home/ubuntu/datasets/quickdraw_binary/watermelon.bin
+/home/ubuntu/datasets/quickdraw_binary/hot dog.bin
+/home/ubuntu/datasets/quickdraw_binary/clarinet.bin
+/home/ubuntu/datasets/quickdraw_binary/paintbrush.bin
+/home/ubuntu/datasets/quickdraw_binary/hedgehog.bin
+/home/ubuntu/datasets/quickdraw_binary/coffee cup.bin
+/home/ubuntu/datasets/quickdraw_binary/fence.bin
+/home/ubuntu/datasets/quickdraw_binary/lighthouse.bin
+/home/ubuntu/datasets/quickdraw_binary/see saw.bin
+/home/ubuntu/datasets/quickdraw_binary/firetruck.bin
+/home/ubuntu/datasets/quickdraw_binary/peas.bin
+/home/ubuntu/datasets/quickdraw_binary/toilet.bin
+/home/ubuntu/datasets/quickdraw_binary/toe.bin
+/home/ubuntu/datasets/quickdraw_binary/passport.bin
+/home/ubuntu/datasets/quickdraw_binary/mailbox.bin
+/home/ubuntu/datasets/quickdraw_binary/octopus.bin
+/home/ubuntu/datasets/quickdraw_binary/alarm clock.bin
+/home/ubuntu/datasets/quickdraw_binary/shorts.bin
+/home/ubuntu/datasets/quickdraw_binary/pizza.bin
+/home/ubuntu/datasets/quickdraw_binary/washing machine.bin
+/home/ubuntu/datasets/quickdraw_binary/toothpaste.bin
+/home/ubuntu/datasets/quickdraw_binary/strawberry.bin
+/home/ubuntu/datasets/quickdraw_binary/hat.bin
+/home/ubuntu/datasets/quickdraw_binary/steak.bin
+/home/ubuntu/datasets/quickdraw_binary/pear.bin
+/home/ubuntu/datasets/quickdraw_binary/string bean.bin
+/home/ubuntu/datasets/quickdraw_binary/arm.bin
+/home/ubuntu/datasets/quickdraw_binary/sandwich.bin
+/home/ubuntu/datasets/quickdraw_binary/windmill.bin
+/home/ubuntu/datasets/quickdraw_binary/calendar.bin
+/home/ubuntu/datasets/quickdraw_binary/tractor.bin
+/home/ubuntu/datasets/quickdraw_binary/cello.bin
+/home/ubuntu/datasets/quickdraw_binary/tree.bin
+/home/ubuntu/datasets/quickdraw_binary/rainbow.bin
+/home/ubuntu/datasets/quickdraw_binary/skull.bin
+/home/ubuntu/datasets/quickdraw_binary/helmet.bin
+/home/ubuntu/datasets/quickdraw_binary/rollerskates.bin
+/home/ubuntu/datasets/quickdraw_binary/nose.bin
+/home/ubuntu/datasets/quickdraw_binary/swan.bin
+/home/ubuntu/datasets/quickdraw_binary/camel.bin
+/home/ubuntu/datasets/quickdraw_binary/pillow.bin
+/home/ubuntu/datasets/quickdraw_binary/headphones.bin
+/home/ubuntu/datasets/quickdraw_binary/flamingo.bin
+/home/ubuntu/datasets/quickdraw_binary/ceiling fan.bin
+/home/ubuntu/datasets/quickdraw_binary/fork.bin
+/home/ubuntu/datasets/quickdraw_binary/couch.bin
+/home/ubuntu/datasets/quickdraw_binary/jail.bin
+/home/ubuntu/datasets/quickdraw_binary/cell phone.bin
+/home/ubuntu/datasets/quickdraw_binary/shark.bin
+/home/ubuntu/datasets/quickdraw_binary/golf club.bin
+/home/ubuntu/datasets/quickdraw_binary/yoga.bin
+/home/ubuntu/datasets/quickdraw_binary/carrot.bin
+/home/ubuntu/datasets/quickdraw_binary/shoe.bin
+/home/ubuntu/datasets/quickdraw_binary/knife.bin
+/home/ubuntu/datasets/quickdraw_binary/fire hydrant.bin
+/home/ubuntu/datasets/quickdraw_binary/star.bin
+/home/ubuntu/datasets/quickdraw_binary/hot tub.bin
+/home/ubuntu/datasets/quickdraw_binary/basket.bin
+/home/ubuntu/datasets/quickdraw_binary/sock.bin
+/home/ubuntu/datasets/quickdraw_binary/computer.bin
+/home/ubuntu/datasets/quickdraw_binary/airplane.bin
+/home/ubuntu/datasets/quickdraw_binary/sweater.bin
+/home/ubuntu/datasets/quickdraw_binary/matches.bin
+/home/ubuntu/datasets/quickdraw_binary/crayon.bin
+/home/ubuntu/datasets/quickdraw_binary/saxophone.bin
+/home/ubuntu/datasets/quickdraw_binary/paper clip.bin
+/home/ubuntu/datasets/quickdraw_binary/pliers.bin
+/home/ubuntu/datasets/quickdraw_binary/lipstick.bin
+/home/ubuntu/datasets/quickdraw_binary/church.bin
+/home/ubuntu/datasets/quickdraw_binary/snowflake.bin
+/home/ubuntu/datasets/quickdraw_binary/axe.bin
+/home/ubuntu/datasets/quickdraw_binary/frying pan.bin
+/home/ubuntu/datasets/quickdraw_binary/radio.bin
+/home/ubuntu/datasets/quickdraw_binary/snorkel.bin
+/home/ubuntu/datasets/quickdraw_binary/stop sign.bin
+/home/ubuntu/datasets/quickdraw_binary/diamond.bin
+/home/ubuntu/datasets/quickdraw_binary/apple.bin
+/home/ubuntu/datasets/quickdraw_binary/spreadsheet.bin
+/home/ubuntu/datasets/quickdraw_binary/rhinoceros.bin
+/home/ubuntu/datasets/quickdraw_binary/swing set.bin
+/home/ubuntu/datasets/quickdraw_binary/car.bin
+/home/ubuntu/datasets/quickdraw_binary/vase.bin
+/home/ubuntu/datasets/quickdraw_binary/jacket.bin
+/home/ubuntu/datasets/quickdraw_binary/postcard.bin
+/home/ubuntu/datasets/quickdraw_binary/sea turtle.bin
+/home/ubuntu/datasets/quickdraw_binary/whale.bin
+/home/ubuntu/datasets/quickdraw_binary/lollipop.bin
+/home/ubuntu/datasets/quickdraw_binary/spider.bin
+/home/ubuntu/datasets/quickdraw_binary/cannon.bin
+/home/ubuntu/datasets/quickdraw_binary/syringe.bin
+/home/ubuntu/datasets/quickdraw_binary/fan.bin
+/home/ubuntu/datasets/quickdraw_binary/envelope.bin
+/home/ubuntu/datasets/quickdraw_binary/wine bottle.bin
+/home/ubuntu/datasets/quickdraw_binary/book.bin
+/home/ubuntu/datasets/quickdraw_binary/bench.bin
+/home/ubuntu/datasets/quickdraw_binary/helicopter.bin
+/home/ubuntu/datasets/quickdraw_binary/light bulb.bin
+/home/ubuntu/datasets/quickdraw_binary/squiggle.bin
+/home/ubuntu/datasets/quickdraw_binary/waterslide.bin
+/home/ubuntu/datasets/quickdraw_binary/clock.bin
+/home/ubuntu/datasets/quickdraw_binary/bucket.bin
+/home/ubuntu/datasets/quickdraw_binary/toaster.bin
+/home/ubuntu/datasets/quickdraw_binary/pencil.bin
+/home/ubuntu/datasets/quickdraw_binary/squirrel.bin
+/home/ubuntu/datasets/quickdraw_binary/bridge.bin
+/home/ubuntu/datasets/quickdraw_binary/frog.bin
+/home/ubuntu/datasets/quickdraw_binary/harp.bin
+/home/ubuntu/datasets/quickdraw_binary/umbrella.bin
+/home/ubuntu/datasets/quickdraw_binary/birthday cake.bin
+/home/ubuntu/datasets/quickdraw_binary/dumbbell.bin
+/home/ubuntu/datasets/quickdraw_binary/smiley face.bin
+/home/ubuntu/datasets/quickdraw_binary/hot air balloon.bin
+/home/ubuntu/datasets/quickdraw_binary/t-shirt.bin
+/home/ubuntu/datasets/quickdraw_binary/cup.bin
+/home/ubuntu/datasets/quickdraw_binary/moon.bin
+/home/ubuntu/datasets/quickdraw_binary/elephant.bin
+/home/ubuntu/datasets/quickdraw_binary/aircraft carrier.bin
+/home/ubuntu/datasets/quickdraw_binary/hand.bin
+/home/ubuntu/datasets/quickdraw_binary/cookie.bin
+/home/ubuntu/datasets/quickdraw_binary/stove.bin
+/home/ubuntu/datasets/quickdraw_binary/teapot.bin
+/home/ubuntu/datasets/quickdraw_binary/speedboat.bin
+/home/ubuntu/datasets/quickdraw_binary/mountain.bin
+/home/ubuntu/datasets/quickdraw_binary/moustache.bin
+/home/ubuntu/datasets/quickdraw_binary/traffic light.bin
+/home/ubuntu/datasets/quickdraw_binary/camouflage.bin
+/home/ubuntu/datasets/quickdraw_binary/lion.bin
+/home/ubuntu/datasets/quickdraw_binary/butterfly.bin
+/home/ubuntu/datasets/quickdraw_binary/onion.bin
+/home/ubuntu/datasets/quickdraw_binary/bird.bin
+/home/ubuntu/datasets/quickdraw_binary/map.bin
+/home/ubuntu/datasets/quickdraw_binary/wheel.bin
+/home/ubuntu/datasets/quickdraw_binary/basketball.bin
+/home/ubuntu/datasets/quickdraw_binary/flashlight.bin
+/home/ubuntu/datasets/quickdraw_binary/foot.bin
+/home/ubuntu/datasets/quickdraw_binary/hexagon.bin
+/home/ubuntu/datasets/quickdraw_binary/monkey.bin
+/home/ubuntu/datasets/quickdraw_binary/blackberry.bin
+/home/ubuntu/datasets/quickdraw_binary/nail.bin
+/home/ubuntu/datasets/quickdraw_binary/garden hose.bin
+/home/ubuntu/datasets/quickdraw_binary/ice cream.bin
+/home/ubuntu/datasets/quickdraw_binary/panda.bin
+/home/ubuntu/datasets/quickdraw_binary/lobster.bin
+/home/ubuntu/datasets/quickdraw_binary/campfire.bin
+/home/ubuntu/datasets/quickdraw_binary/fireplace.bin
+/home/ubuntu/datasets/quickdraw_binary/bee.bin
+/home/ubuntu/datasets/quickdraw_binary/hammer.bin
+/home/ubuntu/datasets/quickdraw_binary/suitcase.bin
+/home/ubuntu/datasets/quickdraw_binary/key.bin
+/home/ubuntu/datasets/quickdraw_binary/wristwatch.bin
+/home/ubuntu/datasets/quickdraw_binary/house plant.bin
+/home/ubuntu/datasets/quickdraw_binary/grass.bin
+/home/ubuntu/datasets/quickdraw_binary/backpack.bin
+/home/ubuntu/datasets/quickdraw_binary/eraser.bin
+/home/ubuntu/datasets/quickdraw_binary/cat.bin
+/home/ubuntu/datasets/quickdraw_binary/pants.bin
+/home/ubuntu/datasets/quickdraw_binary/chair.bin
+/home/ubuntu/datasets/quickdraw_binary/tornado.bin
+/home/ubuntu/datasets/quickdraw_binary/cactus.bin
+/home/ubuntu/datasets/quickdraw_binary/shovel.bin
+/home/ubuntu/datasets/quickdraw_binary/bicycle.bin
+/home/ubuntu/datasets/quickdraw_binary/diving board.bin
+/home/ubuntu/datasets/quickdraw_binary/keyboard.bin
+/home/ubuntu/datasets/quickdraw_binary/wine glass.bin
+/home/ubuntu/datasets/quickdraw_binary/streetlight.bin
+/home/ubuntu/datasets/quickdraw_binary/broom.bin
+/home/ubuntu/datasets/quickdraw_binary/bowtie.bin
+/home/ubuntu/datasets/quickdraw_binary/sword.bin
+/home/ubuntu/datasets/quickdraw_binary/feather.bin
+/home/ubuntu/datasets/quickdraw_binary/bracelet.bin
+/home/ubuntu/datasets/quickdraw_binary/cow.bin
+/home/ubuntu/datasets/quickdraw_binary/eye.bin
+/home/ubuntu/datasets/quickdraw_binary/snake.bin
+/home/ubuntu/datasets/quickdraw_binary/barn.bin
+/home/ubuntu/datasets/quickdraw_binary/rifle.bin
+/home/ubuntu/datasets/quickdraw_binary/rake.bin
+/home/ubuntu/datasets/quickdraw_binary/crown.bin
+/home/ubuntu/datasets/quickdraw_binary/angel.bin
+/home/ubuntu/datasets/quickdraw_binary/screwdriver.bin
+/home/ubuntu/datasets/quickdraw_binary/parachute.bin
+/home/ubuntu/datasets/quickdraw_binary/broccoli.bin
+/home/ubuntu/datasets/quickdraw_binary/compass.bin
+/home/ubuntu/datasets/quickdraw_binary/hockey puck.bin
+/home/ubuntu/datasets/quickdraw_binary/soccer ball.bin
+/home/ubuntu/datasets/quickdraw_binary/crab.bin
+/home/ubuntu/datasets/quickdraw_binary/sailboat.bin
+/home/ubuntu/datasets/quickdraw_binary/anvil.bin
+/home/ubuntu/datasets/quickdraw_binary/baseball.bin
+/home/ubuntu/datasets/quickdraw_binary/donut.bin
+/home/ubuntu/datasets/quickdraw_binary/camera.bin
+/home/ubuntu/datasets/quickdraw_binary/underwear.bin
+/home/ubuntu/datasets/quickdraw_binary/teddy-bear.bin
+/home/ubuntu/datasets/quickdraw_binary/dresser.bin
+/home/ubuntu/datasets/quickdraw_binary/dog.bin
+/home/ubuntu/datasets/quickdraw_binary/horse.bin
+/home/ubuntu/datasets/quickdraw_binary/submarine.bin
+/home/ubuntu/datasets/quickdraw_binary/bush.bin
+/home/ubuntu/datasets/quickdraw_binary/bandage.bin
+/home/ubuntu/datasets/quickdraw_binary/stereo.bin
+/home/ubuntu/datasets/quickdraw_binary/The Mona Lisa.bin
+/home/ubuntu/datasets/quickdraw_binary/marker.bin
+/home/ubuntu/datasets/quickdraw_binary/penguin.bin
+/home/ubuntu/datasets/quickdraw_binary/binoculars.bin
+/home/ubuntu/datasets/quickdraw_binary/pig.bin
+/home/ubuntu/datasets/quickdraw_binary/lantern.bin
+/home/ubuntu/datasets/quickdraw_binary/snowman.bin
+/home/ubuntu/datasets/quickdraw_binary/cloud.bin
+/home/ubuntu/datasets/quickdraw_binary/necklace.bin
+/home/ubuntu/datasets/quickdraw_binary/snail.bin
+/home/ubuntu/datasets/quickdraw_binary/parrot.bin
+/home/ubuntu/datasets/quickdraw_binary/elbow.bin
+/home/ubuntu/datasets/quickdraw_binary/sheep.bin
+/home/ubuntu/datasets/quickdraw_binary/raccoon.bin
+/home/ubuntu/datasets/quickdraw_binary/knee.bin
+/home/ubuntu/datasets/quickdraw_binary/river.bin
+/home/ubuntu/datasets/quickdraw_binary/skateboard.bin
+/home/ubuntu/datasets/quickdraw_binary/guitar.bin
+/home/ubuntu/datasets/quickdraw_binary/mouse.bin
+/home/ubuntu/datasets/quickdraw_binary/drums.bin
+/home/ubuntu/datasets/quickdraw_binary/roller coaster.bin
+/home/ubuntu/datasets/quickdraw_binary/skyscraper.bin
+/home/ubuntu/datasets/quickdraw_binary/mermaid.bin
+/home/ubuntu/datasets/quickdraw_binary/power outlet.bin
+/home/ubuntu/datasets/quickdraw_binary/boomerang.bin
+/home/ubuntu/datasets/quickdraw_binary/drill.bin
+/home/ubuntu/datasets/quickdraw_binary/bulldozer.bin
+/home/ubuntu/datasets/quickdraw_binary/ant.bin
+/home/ubuntu/datasets/quickdraw_binary/hamburger.bin
+/home/ubuntu/datasets/quickdraw_binary/leaf.bin
+/home/ubuntu/datasets/quickdraw_binary/dishwasher.bin
+/home/ubuntu/datasets/quickdraw_binary/calculator.bin
+/home/ubuntu/datasets/quickdraw_binary/bottlecap.bin
+/home/ubuntu/datasets/quickdraw_binary/telephone.bin
+/home/ubuntu/datasets/quickdraw_binary/mouth.bin
+/home/ubuntu/datasets/quickdraw_binary/laptop.bin
+/home/ubuntu/datasets/quickdraw_binary/beach.bin
+/home/ubuntu/datasets/quickdraw_binary/cruise ship.bin
+/home/ubuntu/datasets/quickdraw_binary/trumpet.bin
+/home/ubuntu/datasets/quickdraw_binary/piano.bin
+/home/ubuntu/datasets/quickdraw_binary/tiger.bin
+/home/ubuntu/datasets/quickdraw_binary/square.bin
+/home/ubuntu/datasets/quickdraw_binary/microwave.bin
+/home/ubuntu/datasets/quickdraw_binary/dragon.bin
+/home/ubuntu/datasets/quickdraw_binary/duck.bin
+/home/ubuntu/datasets/quickdraw_binary/van.bin
+/home/ubuntu/datasets/quickdraw_binary/bathtub.bin
+/home/ubuntu/datasets/quickdraw_binary/purse.bin
+/home/ubuntu/datasets/quickdraw_binary/The Eiffel Tower.bin
+/home/ubuntu/datasets/quickdraw_binary/line.bin
+/home/ubuntu/datasets/quickdraw_binary/kangaroo.bin
+/home/ubuntu/datasets/quickdraw_binary/oven.bin
+/home/ubuntu/datasets/quickdraw_binary/ear.bin
+/home/ubuntu/datasets/quickdraw_binary/flower.bin
+/home/ubuntu/datasets/quickdraw_binary/bed.bin
+/home/ubuntu/datasets/quickdraw_binary/ambulance.bin
+/home/ubuntu/datasets/quickdraw_binary/lightning.bin
+/home/ubuntu/datasets/quickdraw_binary/hockey stick.bin
+/home/ubuntu/datasets/quickdraw_binary/zigzag.bin
+/home/ubuntu/datasets/quickdraw_binary/leg.bin
+/home/ubuntu/datasets/quickdraw_binary/owl.bin
+/home/ubuntu/datasets/quickdraw_binary/remote control.bin
+/home/ubuntu/datasets/quickdraw_binary/zebra.bin
+/home/ubuntu/datasets/quickdraw_binary/tooth.bin
+/home/ubuntu/datasets/quickdraw_binary/candle.bin
+/home/ubuntu/datasets/quickdraw_binary/peanut.bin
+/home/ubuntu/datasets/quickdraw_binary/cake.bin
+/home/ubuntu/datasets/quickdraw_binary/pickup truck.bin
+/home/ubuntu/datasets/quickdraw_binary/palm tree.bin
+/home/ubuntu/datasets/quickdraw_binary/mushroom.bin
+/home/ubuntu/datasets/quickdraw_binary/flip flops.bin
+/home/ubuntu/datasets/quickdraw_binary/train.bin
+/home/ubuntu/datasets/quickdraw_binary/blueberry.bin
+/home/ubuntu/datasets/quickdraw_binary/hospital.bin
+/home/ubuntu/datasets/quickdraw_binary/scissors.bin
+/home/ubuntu/datasets/quickdraw_binary/violin.bin
+/home/ubuntu/datasets/quickdraw_binary/bread.bin
+/home/ubuntu/datasets/quickdraw_binary/bus.bin
+/home/ubuntu/datasets/quickdraw_binary/castle.bin
+/home/ubuntu/datasets/quickdraw_binary/dolphin.bin
+/home/ubuntu/datasets/quickdraw_binary/animal migration.bin
+/home/ubuntu/datasets/quickdraw_binary/sun.bin
+/home/ubuntu/datasets/quickdraw_binary/asparagus.bin
+/home/ubuntu/datasets/quickdraw_binary/stethoscope.bin
+/home/ubuntu/datasets/quickdraw_binary/octagon.bin
+/home/ubuntu/datasets/quickdraw_binary/finger.bin
+/home/ubuntu/datasets/quickdraw_binary/beard.bin
+/home/ubuntu/datasets/quickdraw_binary/motorbike.bin
+/home/ubuntu/datasets/quickdraw_binary/school bus.bin
+/home/ubuntu/datasets/quickdraw_binary/house.bin
+/home/ubuntu/datasets/quickdraw_binary/floor lamp.bin
+/home/ubuntu/datasets/quickdraw_binary/pineapple.bin
+/home/ubuntu/datasets/quickdraw_binary/flying saucer.bin
+/home/ubuntu/datasets/quickdraw_binary/scorpion.bin
+/home/ubuntu/datasets/quickdraw_binary/triangle.bin
+/home/ubuntu/datasets/quickdraw_binary/hurricane.bin
+/home/ubuntu/datasets/quickdraw_binary/lighter.bin
+/home/ubuntu/datasets/quickdraw_binary/crocodile.bin
+/home/ubuntu/datasets/quickdraw_binary/stairs.bin
+/home/ubuntu/datasets/quickdraw_binary/circle.bin
+/home/ubuntu/datasets/quickdraw_binary/hourglass.bin
+/home/ubuntu/datasets/quickdraw_binary/microphone.bin
+/home/ubuntu/datasets/quickdraw_binary/tennis racquet.bin
+/home/ubuntu/datasets/quickdraw_binary/cooler.bin
+/home/ubuntu/datasets/quickdraw_binary/chandelier.bin
+/home/ubuntu/datasets/quickdraw_binary/pool.bin
+/home/ubuntu/datasets/quickdraw_binary/giraffe.bin
+/home/ubuntu/datasets/quickdraw_binary/banana.bin
+/home/ubuntu/datasets/quickdraw_binary/stitches.bin
+/home/ubuntu/datasets/quickdraw_binary/mosquito.bin
+/home/ubuntu/datasets/quickdraw_binary/toothbrush.bin
+/home/ubuntu/datasets/quickdraw_binary/ocean.bin
+/home/ubuntu/datasets/quickdraw_binary/grapes.bin
+/home/ubuntu/datasets/quickdraw_binary/police car.bin
+/home/ubuntu/datasets/quickdraw_binary/door.bin
+/home/ubuntu/datasets/quickdraw_binary/megaphone.bin
+/home/ubuntu/datasets/quickdraw_binary/rabbit.bin
+/home/ubuntu/datasets/quickdraw_binary/belt.bin
+/home/ubuntu/datasets/quickdraw_binary/table.bin
+/home/ubuntu/datasets/quickdraw_binary/bear.bin
+/home/ubuntu/datasets/quickdraw_binary/spoon.bin
+/home/ubuntu/datasets/quickdraw_binary/mug.bin
+/home/ubuntu/datasets/quickdraw_binary/brain.bin
+/home/ubuntu/datasets/quickdraw_binary/The Great Wall of China.bin
+/home/ubuntu/datasets/quickdraw_binary/television.bin
+/home/ubuntu/datasets/quickdraw_binary/pond.bin
+/home/ubuntu/datasets/quickdraw_binary/potato.bin
+/home/ubuntu/datasets/quickdraw_binary/sink.bin
+/home/ubuntu/datasets/quickdraw_binary/face.bin
+/home/ubuntu/datasets/quickdraw_binary/goatee.bin
+/home/ubuntu/datasets/quickdraw_binary/garden.bin
+/home/ubuntu/datasets/quickdraw_binary/truck.bin
+/home/ubuntu/datasets/quickdraw_binary/canoe.bin
+/home/ubuntu/datasets/quickdraw_binary/trombone.bin
+/home/ubuntu/datasets/quickdraw_binary/popsicle.bin
+/home/ubuntu/datasets/quickdraw_binary/saw.bin
+/home/ubuntu/datasets/quickdraw_binary/tent.bin
+/home/ubuntu/datasets/quickdraw_binary/paint can.bin
+/home/ubuntu/datasets/quickdraw_binary/sleeping bag.bin
+/home/ubuntu/datasets/quickdraw_binary/bat.bin
+/home/ubuntu/datasets/quickdraw_binary/rain.bin

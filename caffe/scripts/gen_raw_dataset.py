@@ -20,6 +20,7 @@ import struct
 import copy
 import sys
 from struct import unpack
+import os
 
 def unpack_drawing(file_handle):
     key_id, = unpack('Q', file_handle.read(8))
@@ -73,11 +74,13 @@ tf1 = open("temp_Val_stroke.txt", 'w')
 tf2 = open("temp_Train_stroke.txt", 'w')
 #
 
+save_dir = 'imgData'
+
 n=1
 continue_trig = False
 for k in range(linecount):
     file_name = file_list.readline()
-    print file_name
+    print(file_name)
     
     mode = 0
     skip_idx = 0
@@ -92,7 +95,7 @@ for k in range(linecount):
        all_data.append(drawing)
 
     if len(all_data) <25000:
-        print "images smaller than 75000"
+        print("images smaller than 75000")
         break
 
     random.shuffle(all_data)
@@ -143,8 +146,8 @@ for k in range(linecount):
         #----------------------------------------        
 
         #arrange image to center
-        diff_y = 255/2 - (max_y - min_y)/2
-        diff_x = 255/2 - (max_x - min_x)/2
+        diff_y = int(255/2 - (max_y - min_y)/2)
+        diff_x = int(255/2 - (max_x - min_x)/2)
         #print diff_x,",", diff_y," will moved"
         shift_M = np.float32([[1,0,diff_x], [0,1,diff_y]])
 
@@ -164,7 +167,7 @@ for k in range(linecount):
 
                     if stroke_len >= stroke_trigger and j <len(drawing['image'][i][0])-2:
                         stroke_len = stroke_len - stroke_trigger 
-                        blank_img2[diff_y:max_y+diff_y, diff_x:max_x+diff_x] = cv2.warpAffine(blank_img, shift_M, (255,255))[diff_y:max_y+diff_y, diff_x:diff_x+max_x]
+                        blank_img2[diff_y:(max_y+diff_y), diff_x:(max_x+diff_x)] = cv2.warpAffine(blank_img, shift_M, (255,255))[diff_y:max_y+diff_y, diff_x:diff_x+max_x]
 
                         result[10:90,10:90] = cv2.resize(blank_img2,(80,80),interpolation = cv2.INTER_CUBIC)
                         image_list.append(copy.copy(result))
@@ -182,24 +185,27 @@ for k in range(linecount):
             for i in range(5-len(image_list)):
                 image_list.append(copy.copy(result))
         if len(image_list) != 5:
-            print "img length is wrong: ", len(image_list)
+            print("img length is wrong: ", len(image_list))
             continue
 
         #####image list update
+        cls_name = file_name.rsplit(os.sep, 1)[1].rsplit('.', 1)[0]
+        if not os.path.exists(os.path.join(save_dir, str(k))):
+            os.makedirs(os.path.join(save_dir, str(k)))
         for r in range(len(image_list)):
-            cv2.imwrite('./imgData/'+str(k)+'/'+file_name[10:len(file_name)-5]+'_'+ str(image_counter) +'_'+str(r)+".png",image_list[r])
+            cv2.imwrite(save_dir + os.sep + str(k)+'/' + str(image_counter) +'_'+str(r)+".png",image_list[r])
 
         if num_file < 2500: 
-            tf0.write("imgData/"+str(k)+'/'+file_name[10:len(file_name)-5]+'_'+str(image_counter)+"*" + str(k)+'\n')
+            tf0.write(save_dir + os.sep + str(k)+'/' + str(image_counter)+'\n')
 
         elif num_file < 5000:
-            tf1.write("imgData/"+str(k)+'/'+file_name[10:len(file_name)-5]+'_'+str(image_counter)+"*" + str(k)+'\n')
+            tf1.write(save_dir + os.sep + str(k)+'/' + str(image_counter)+'\n')
 
         else:
-            tf2.write("imgData/"+str(k)+'/'+file_name[10:len(file_name)-5]+'_'+str(image_counter)+"*" + str(k)+'\n')
+            tf2.write(save_dir + os.sep + str(k)+'/' + str(image_counter)+'\n')
 
     
-        print file_name + ": "+str(num_file)
+        print(file_name + ": "+str(num_file))
         image_counter = image_counter +1
 
 tf0.close()
