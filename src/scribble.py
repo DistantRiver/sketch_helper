@@ -66,7 +66,7 @@ save_image = False
 searchImage = ['a','a','a','a','a','a','a','a','a','a']
 previous_can_img_list = []
 prev_stroke = 0
-img_folder = '../imgData/'
+img_folder = '/home/ubuntu/sketch_helper_ori/imgData/'
 new_folder = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S') 
 newpath = '../Ourdata/'+ new_folder
 
@@ -135,9 +135,9 @@ class MyCaffe(QThread):
         
         input_image = self.input_transform(input_image).unsqueeze(0).to(self.device)
         _, str_out, cls_out = self.model(input_image)
-        str_out = str_out.squeeze().numpy()
+        str_out = str_out.squeeze().cpu().detach().numpy()
         str_out = str_out > 0
-        cls_out = cls_out.squeeze().numpy()
+        cls_out = cls_out.squeeze().cpu().detach().numpy()
         
         classlist = []
         for k in range(self.num_check_class[stroke]):
@@ -168,7 +168,7 @@ class MyCaffe(QThread):
                 temp_list = []
                 for i in range(1000):
                     
-                    VIP = self.dataset[p][i]['feature_map']
+                    VIP = self.dataset[p][i]
                     temp = np.sum(np.logical_not(np.logical_xor(str_out,VIP)))
                     temp_list.append(temp)
 
@@ -182,7 +182,7 @@ class MyCaffe(QThread):
                 for previous_can in previous_can_img_list:
                     equ_can = False
                     for del_idx, can_img in enumerate(can_img_list):
-                        p = can_img[0]    
+                        p = can_img[0]
                         m = can_img[1]
                         val = can_img[2]
                         #when p, m exist increase val
@@ -204,10 +204,11 @@ class MyCaffe(QThread):
                 p = temp[0]
                 index = temp[1]
                 if stroke >= 4:
-                    outfile_name = self.dataset[p][index]['filename']
+                    outfile_name = str(candidate_class -1) + os.sep + str(index) + '_4.png'
                 else:
                     # get next stroke (+345)
-                    outfile_name = self.dataset[p+345][index]['filename']
+                    outfile_name = str(candidate_class -1) + os.sep + str(index) + '_' + str(stroke + 1) +'.png'
+
                 c_img_list.append(outfile_name)
                 value_list.append(outfile_name)
                 value_list.append(temp[2])
