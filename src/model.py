@@ -8,7 +8,7 @@ class SHNet(nn.Module):
     def __init__(self):
         """Select conv1_1 ~ conv5_1 activation maps."""
         super(SHNet, self).__init__()
-        self.img_net = models.resnet18(pretrained=True)
+        self.img_net = models.resnet34(pretrained=True)
         self.img_cnn = nn.Sequential(*list(self.img_net.children())[:-1])
         self.img_fea_len = 512
         self.cls_num = 345
@@ -31,7 +31,7 @@ class SHNet_lstm(nn.Module):
     def __init__(self):
         """Select conv1_1 ~ conv5_1 activation maps."""
         super(SHNet_lstm, self).__init__()
-        self.img_net = models.resnet18(pretrained=True)
+        self.img_net = models.resnet34(pretrained=True)
         self.img_cnn = nn.Sequential(*list(self.img_net.children())[:-1])
         self.img_fea_len = 512
         self.cls_num = 345

@@ -66,7 +66,7 @@ save_image = False
 searchImage = ['a','a','a','a','a','a','a','a','a','a']
 previous_can_img_list = []
 prev_stroke = 0
-img_folder = '/home/ubuntu/sketch_helper_ori/imgData/'
+img_folder = '/home/ubuntu/sketch_helper/imgData/'
 new_folder = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S') 
 newpath = '../Ourdata/'+ new_folder
 
